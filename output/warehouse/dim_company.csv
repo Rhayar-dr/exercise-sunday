@@ -1,0 +1,27 @@
+company_id,company_name,in_metadata,founded_year,headquarters,employee_count,industry_raw,industry,is_public,stock_ticker,company_size_category,metadata_quality_notes,source_batch_id,source_record_hash
+airbnb,Airbnb,true,1999,"London, UK",19967,Data Analytics,DATA_ANALYTICS,false,,Medium,,company_metadata-826788ca33a4,dc8fe5f9328d3381
+amazon-web-services,Amazon Web Services,true,2015,"Berlin, Germany",27826,SaaS,SOFTWARE_SAAS,false,,Medium,,company_metadata-826788ca33a4,799ba3ca259b72ad
+anthropic,Anthropic,true,2006,"San Francisco, CA",43747,FinTech,FINTECH,false,,Large,,company_metadata-826788ca33a4,c7de52468faf7dcd
+cloudflare,Cloudflare,true,1998,"Austin, TX",4422,Cybersecurity,CYBERSECURITY,false,CLOU,Small,ticker_on_private_company,company_metadata-826788ca33a4,f59d8ae6a27739cb
+cohere,Cohere,false,,,,,,,,,not_in_metadata,,
+confluent,Confluent,true,1995,"London, UK",3884,Cloud Computing,CLOUD,false,,Small,,company_metadata-826788ca33a4,aa8030a948da4ff6
+databricks,Databricks,true,2003,"Berlin, Germany",17962,Data Analytics,DATA_ANALYTICS,true,DATA,Medium,,company_metadata-826788ca33a4,0b22147cbf65e8bd
+datarobot,DataRobot,true,2012,"New York, NY",23471,Cloud Computing,CLOUD,true,,Medium,public_company_without_ticker,company_metadata-826788ca33a4,3776d1e74e8a3f60
+elastic,Elastic,true,2016,"San Francisco, CA",24508,Cybersecurity,CYBERSECURITY,true,ELAS,Medium,,company_metadata-826788ca33a4,b5dfa387da0f9bab
+google-deepmind,Google DeepMind,true,2017,"Austin, TX",24274,Data Analytics,DATA_ANALYTICS,false,,Medium,,company_metadata-826788ca33a4,24f74f46aa9715c5
+hugging-face,Hugging Face,false,,,,,,,,,not_in_metadata,,
+meta-ai,Meta AI,true,2001,"Seattle, WA",20240,Data Analytics,DATA_ANALYTICS,true,,Medium,public_company_without_ticker,company_metadata-826788ca33a4,2b8a09f8d68ac9fe
+microsoft,Microsoft,true,2018,"Austin, TX",48646,Data Analytics,DATA_ANALYTICS,false,,Large,,company_metadata-826788ca33a4,f6383ac8cc7516f2
+mistral-ai,Mistral AI,false,,,,,,,,,not_in_metadata,,
+mongodb,MongoDB,true,2008,"Austin, TX",16952,SaaS,SOFTWARE_SAAS,false,MONG,Medium,ticker_on_private_company,company_metadata-826788ca33a4,32e606f9e115865f
+nvidia,NVIDIA,true,2017,"London, UK",22031,AI/ML,AI_ML,false,,Medium,,company_metadata-826788ca33a4,24fcc43a5b4d18e1
+openai,OpenAI,true,2006,"Austin, TX",12793,Data Analytics,DATA_ANALYTICS,false,OPEN,Medium,ticker_on_private_company,company_metadata-826788ca33a4,5af3aff508bbfbd2
+palantir,Palantir,true,2005,"Berlin, Germany",42306,Cloud Computing,CLOUD,true,,Large,public_company_without_ticker,company_metadata-826788ca33a4,01104ec45a8bde29
+perplexity-ai,Perplexity AI,false,,,,,,,,,not_in_metadata,,
+scale-ai,Scale AI,true,2003,"Berlin, Germany",23379,AI/ML,AI_ML,false,,Medium,,company_metadata-826788ca33a4,45b52136240af0dc
+snowflake,Snowflake,true,2012,"London, UK",49545,Cloud Computing,CLOUD,true,,Large,public_company_without_ticker,company_metadata-826788ca33a4,485b3f01e0bde2b8
+spacex,SpaceX,true,2016,"Berlin, Germany",31018,AI/ML,AI_ML,false,,Large,,company_metadata-826788ca33a4,fe4d095e3f514d16
+stripe,Stripe,true,2002,"Seattle, WA",36348,Data Analytics,DATA_ANALYTICS,true,STRI,Large,,company_metadata-826788ca33a4,fcf052861e28a9d2
+tesla,Tesla,true,2008,"London, UK",5691,Cloud Computing,CLOUD,true,,Small,public_company_without_ticker,company_metadata-826788ca33a4,7c2c2b9f55252826
+uber,Uber,true,2015,"San Francisco, CA",10144,FinTech,FINTECH,false,UBER,Medium,ticker_on_private_company,company_metadata-826788ca33a4,7cfaeea858a0ac2b
+xai,xAI,false,,,,,,,,,not_in_metadata,,

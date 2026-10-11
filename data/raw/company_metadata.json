@@ -1,0 +1,170 @@
+{
+  "OpenAI": {
+    "founded_year": 2006,
+    "headquarters": "Austin, TX",
+    "employee_count": 12793,
+    "industry": "Data Analytics",
+    "is_public": false,
+    "stock_ticker": "OPEN"
+  },
+  "Anthropic": {
+    "founded_year": 2006,
+    "headquarters": "San Francisco, CA",
+    "employee_count": 43747,
+    "industry": "FinTech",
+    "is_public": false,
+    "stock_ticker": null
+  },
+  "Google DeepMind": {
+    "founded_year": 2017,
+    "headquarters": "Austin, TX",
+    "employee_count": 24274,
+    "industry": "Data Analytics",
+    "is_public": false,
+    "stock_ticker": null
+  },
+  "Meta AI": {
+    "founded_year": 2001,
+    "headquarters": "Seattle, WA",
+    "employee_count": 20240,
+    "industry": "Data Analytics",
+    "is_public": true,
+    "stock_ticker": null
+  },
+  "Microsoft": {
+    "founded_year": 2018,
+    "headquarters": "Austin, TX",
+    "employee_count": 48646,
+    "industry": "Data Analytics",
+    "is_public": false,
+    "stock_ticker": null
+  },
+  "Amazon Web Services": {
+    "founded_year": 2015,
+    "headquarters": "Berlin, Germany",
+    "employee_count": 27826,
+    "industry": "SaaS",
+    "is_public": false,
+    "stock_ticker": null
+  },
+  "Tesla": {
+    "founded_year": 2008,
+    "headquarters": "London, UK",
+    "employee_count": 5691,
+    "industry": "Cloud Computing",
+    "is_public": true,
+    "stock_ticker": null
+  },
+  "NVIDIA": {
+    "founded_year": 2017,
+    "headquarters": "London, UK",
+    "employee_count": 22031,
+    "industry": "AI/ML",
+    "is_public": false,
+    "stock_ticker": null
+  },
+  "Databricks": {
+    "founded_year": 2003,
+    "headquarters": "Berlin, Germany",
+    "employee_count": 17962,
+    "industry": "Data Analytics",
+    "is_public": true,
+    "stock_ticker": "DATA"
+  },
+  "Snowflake": {
+    "founded_year": 2012,
+    "headquarters": "London, UK",
+    "employee_count": 49545,
+    "industry": "Cloud Computing",
+    "is_public": true,
+    "stock_ticker": null
+  },
+  "Stripe": {
+    "founded_year": 2002,
+    "headquarters": "Seattle, WA",
+    "employee_count": 36348,
+    "industry": "Data Analytics",
+    "is_public": true,
+    "stock_ticker": "STRI"
+  },
+  "Airbnb": {
+    "founded_year": 1999,
+    "headquarters": "London, UK",
+    "employee_count": 19967,
+    "industry": "Data Analytics",
+    "is_public": false,
+    "stock_ticker": null
+  },
+  "Uber": {
+    "founded_year": 2015,
+    "headquarters": "San Francisco, CA",
+    "employee_count": 10144,
+    "industry": "FinTech",
+    "is_public": false,
+    "stock_ticker": "UBER"
+  },
+  "SpaceX": {
+    "founded_year": 2016,
+    "headquarters": "Berlin, Germany",
+    "employee_count": 31018,
+    "industry": "AI/ML",
+    "is_public": false,
+    "stock_ticker": null
+  },
+  "Palantir": {
+    "founded_year": 2005,
+    "headquarters": "Berlin, Germany",
+    "employee_count": 42306,
+    "industry": "Cloud Computing",
+    "is_public": true,
+    "stock_ticker": null
+  },
+  "Cloudflare": {
+    "founded_year": 1998,
+    "headquarters": "Austin, TX",
+    "employee_count": 4422,
+    "industry": "Cybersecurity",
+    "is_public": false,
+    "stock_ticker": "CLOU"
+  },
+  "MongoDB": {
+    "founded_year": 2008,
+    "headquarters": "Austin, TX",
+    "employee_count": 16952,
+    "industry": "SaaS",
+    "is_public": false,
+    "stock_ticker": "MONG"
+  },
+  "Elastic": {
+    "founded_year": 2016,
+    "headquarters": "San Francisco, CA",
+    "employee_count": 24508,
+    "industry": "Cybersecurity",
+    "is_public": true,
+    "stock_ticker": "ELAS"
+  },
+  "Confluent": {
+    "founded_year": 1995,
+    "headquarters": "London, UK",
+    "employee_count": 3884,
+    "industry": "Cloud Computing",
+    "is_public": false,
+    "stock_ticker": null
+  },
+  "DataRobot": {
+    "founded_year": 2012,
+    "headquarters": "New York, NY",
+    "employee_count": 23471,
+    "industry": "Cloud Computing",
+    "is_public": true,
+    "stock_ticker": null
+  },
+  "Scale AI": {
+    "founded_year": 2003,
+    "headquarters": "Berlin, Germany",
+    "employee_count": 23379,
+    "industry": "AI/ML",
+    "is_public": false,
+    "stock_ticker": null
+  }
+}

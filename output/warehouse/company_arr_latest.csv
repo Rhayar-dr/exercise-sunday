@@ -1,0 +1,27 @@
+company_id,company_name,industry,in_metadata,latest_as_of_date,latest_arr_usd,latest_observation_id,latest_article_id,latest_revenue_raw,latest_source_url,previous_as_of_date,previous_arr_usd,first_as_of_date,observation_count
+airbnb,Airbnb,DATA_ANALYTICS,true,2024-11-20,8190000000,ARR-ART0565,ART0565,"€7,445,454,545",https://technews.example.com/articles/565,2024-06-21,7722000000,2020-01-10,17
+amazon-web-services,Amazon Web Services,SOFTWARE_SAAS,true,2024-12-20,102600000000,ARR-ART0623,ART0623,$102.600 billion,https://technews.example.com/articles/623,2024-10-23,102600000000,2020-02-09,24
+anthropic,Anthropic,FINTECH,true,2024-11-17,1034000000,ARR-ART0570,ART0570,$1.034B,https://technews.example.com/articles/570,2024-10-03,1034000000,2020-01-31,25
+cloudflare,Cloudflare,CYBERSECURITY,true,2024-12-23,1647000000,ARR-ART0679,ART0679,$1647.0 million,https://technews.example.com/articles/679,2024-12-14,1647000000,2020-01-14,28
+cohere,Cohere,,false,2024-10-06,105000000,ARR-ART0692,ART0692,"$105,000,000",https://technews.example.com/articles/692,2024-09-06,135000000,2022-04-09,6
+confluent,Confluent,CLOUD,true,2024-10-27,1156000000,ARR-ART0555,ART0555,"€1,050,909,091",https://technews.example.com/articles/555,2024-10-04,1156000000,2020-01-15,33
+databricks,Databricks,DATA_ANALYTICS,true,2024-12-26,3480000000,ARR-ART0716,ART0716,"£2,740,157,480",https://technews.example.com/articles/716,2024-12-11,3480000000,2020-04-27,19
+datarobot,DataRobot,CLOUD,true,2024-12-12,407000000,ARR-ART0655,ART0655,"€370,000,000",https://technews.example.com/articles/655,2024-09-10,407000000,2020-05-20,26
+elastic,Elastic,CYBERSECURITY,true,2024-08-26,1400000000,ARR-ART0698,ART0698,$1.330B - $1.470B,https://technews.example.com/articles/698,2024-06-26,1350000000,2020-02-08,24
+google-deepmind,Google DeepMind,DATA_ANALYTICS,true,2024-12-21,1215000000,ARR-ART0736,ART0736,"£956,692,913",https://technews.example.com/articles/736,2024-12-19,1215000000,2020-04-24,26
+hugging-face,Hugging Face,,false,2024-05-14,82000000,ARR-ART0624,ART0624,82.0M USD,https://technews.example.com/articles/624,2023-06-19,55760000,2023-06-19,2
+meta-ai,Meta AI,DATA_ANALYTICS,true,2024-12-19,1950000000,ARR-ART0689,ART0689,$1950.0 million,https://technews.example.com/articles/689,2024-08-12,1950000000,2020-04-20,27
+microsoft,Microsoft,DATA_ANALYTICS,true,2024-12-02,83850000000,ARR-ART0606,ART0606,"£66,023,622,047",https://technews.example.com/articles/606,2024-10-27,83850000000,2020-08-06,30
+mistral-ai,Mistral AI,,false,2024-12-13,260000000,ARR-ART0691,ART0691,$260.0M,https://technews.example.com/articles/691,2024-11-12,260000000,2023-06-06,5
+mongodb,MongoDB,SOFTWARE_SAAS,true,2024-11-13,2057000000,ARR-ART0748,ART0748,$1.954B - $2.160B,https://technews.example.com/articles/748,2024-06-02,1870000000,2020-02-29,31
+nvidia,NVIDIA,AI_ML,true,2024-10-14,62100000000,ARR-ART0684,ART0684,62100.0M USD,https://technews.example.com/articles/684,2024-10-09,62100000000,2020-05-17,26
+openai,OpenAI,DATA_ANALYTICS,true,2024-10-28,4050000000,ARR-ART0710,ART0710,$4.050B,https://technews.example.com/articles/710,2024-10-02,4050000000,2020-06-08,24
+palantir,Palantir,CLOUD,true,2024-12-12,2691000000,ARR-ART0635,ART0635,"€2,446,363,636",https://technews.example.com/articles/635,2024-08-27,2576000000,2020-04-20,26
+perplexity-ai,Perplexity AI,,false,2024-10-09,85000000,ARR-ART0517,ART0517,"¥12,750,000,000",https://technews.example.com/articles/517,2024-08-19,85000000,2024-03-19,3
+scale-ai,Scale AI,AI_ML,true,2024-10-10,1307000000,ARR-ART0642,ART0642,"$1,307,000,000",https://technews.example.com/articles/642,2024-05-25,1026000000,2020-01-24,29
+snowflake,Snowflake,CLOUD,true,2024-11-16,3612000000,ARR-ART0633,ART0633,$3.612 billion,https://technews.example.com/articles/633,2024-11-16,3612000000,2020-04-21,24
+spacex,SpaceX,AI_ML,true,2024-12-12,9945000000,ARR-ART0734,ART0734,9945.0M USD,https://technews.example.com/articles/734,2024-11-14,9945000000,2020-06-11,29
+stripe,Stripe,DATA_ANALYTICS,true,2024-12-02,3909999999,ARR-ART0746,ART0746,"£3,078,740,157",https://technews.example.com/articles/746,2024-10-25,3910000001,2020-01-16,27
+tesla,Tesla,CLOUD,true,2024-07-14,98880000000,ARR-ART0547,ART0547,"¥14,832,000,000,000",https://technews.example.com/articles/547,2024-07-01,98880000000,2020-05-29,24
+uber,Uber,FINTECH,true,2024-12-02,37400000000,ARR-ART0540,ART0540,$37.400B,https://technews.example.com/articles/540,2024-11-07,37400000000,2020-04-10,19
+xai,xAI,,false,2024-11-07,180000000,ARR-ART0749,ART0749,$180.0 million,https://technews.example.com/articles/749,2024-10-28,180000000,2024-01-04,4

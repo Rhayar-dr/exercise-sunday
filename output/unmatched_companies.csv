@@ -1,0 +1,6 @@
+company_name_raw,match_method,company_id,article_count,match_note
+Cohere,unmatched,cohere,8,not present in company metadata
+xAI,unmatched,xai,6,not present in company metadata
+Mistral AI,unmatched,mistral-ai,5,not present in company metadata
+Hugging Face,unmatched,hugging-face,3,not present in company metadata
+Perplexity AI,unmatched,perplexity-ai,3,not present in company metadata

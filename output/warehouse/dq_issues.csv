@@ -1,0 +1,392 @@
+entity_type,entity_id,issue_type,severity,detail,raw_value
+article,ART0001,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0003,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0005,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0008,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0012,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0018,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0025,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0026,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0027,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0030,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0032,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0035,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0037,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0038,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2021-04-05",04-05-2021
+article,ART0042,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0043,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0044,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0047,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0048,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0050,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0052,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0054,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2021-10-04",10-04-2021
+article,ART0057,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0058,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-05-07",07/05/2023
+article,ART0062,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0062,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2020-06-07",07/06/2020
+article,ART0063,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0064,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0065,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0067,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0076,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0081,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2020-03-06",06/03/2020
+article,ART0082,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-08-10",08-10-2023
+article,ART0083,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0084,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0087,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-09-02",02/09/2023
+article,ART0089,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0092,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0095,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0098,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0102,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2020-08-06",08-06-2020
+article,ART0103,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0105,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0106,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0107,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0110,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0111,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0115,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2021-04-05",04-05-2021
+article,ART0123,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0125,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0127,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0134,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0135,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0136,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0139,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0140,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0143,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0145,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0146,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0148,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0150,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0151,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0152,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0153,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0154,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0156,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0160,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0162,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0164,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0166,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0167,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0171,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0174,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0176,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0178,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0182,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0183,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0190,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0190,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2022-07-01",07-01-2022
+article,ART0191,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0193,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0194,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0195,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0196,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0197,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0201,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0203,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0203,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2022-04-08",08/04/2022
+article,ART0205,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0208,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0214,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0215,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0216,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0216,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2021-03-07",03-07-2021
+article,ART0218,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0218,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2022-08-01",08-01-2022
+article,ART0225,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2022-11-05",11-05-2022
+article,ART0226,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2022-03-11",03-11-2022
+article,ART0227,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0229,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0235,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0238,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0238,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2020-11-08",08/11/2020
+article,ART0239,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2022-06-08",06-08-2022
+article,ART0244,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0245,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0248,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0255,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0255,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2022-09-05",05/09/2022
+article,ART0256,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0256,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2020-11-02",11-02-2020
+article,ART0260,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0264,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2022-10-06",06/10/2022
+article,ART0265,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0266,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0267,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0271,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0276,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0279,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0280,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0281,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0282,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0283,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0284,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0285,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2020-09-02",02/09/2020
+article,ART0287,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0288,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0289,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0291,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0295,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2020-09-05",09-05-2020
+article,ART0296,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0297,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0298,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0300,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-07-09",07-09-2023
+article,ART0302,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0309,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0319,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0323,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0325,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0333,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2021-09-03",03/09/2021
+article,ART0339,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0340,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2020-01-10",01-10-2020
+article,ART0342,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0344,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0348,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0349,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0351,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-09-02",02/09/2023
+article,ART0353,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0354,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0356,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0356,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-09-06",09-06-2023
+article,ART0361,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0362,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0366,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0366,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-12-01",12-01-2023
+article,ART0372,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0377,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-06-05",05/06/2023
+article,ART0379,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0381,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0385,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2020-04-05",04-05-2020
+article,ART0388,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0389,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2021-04-06",04-06-2021
+article,ART0395,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0401,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0401,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2021-04-08",08/04/2021
+article,ART0404,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-05-07",05-07-2023
+article,ART0405,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0407,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0408,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2020-06-08",08/06/2020
+article,ART0409,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0409,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2022-03-09",09/03/2022
+article,ART0414,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0415,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0416,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-12-09",09/12/2023
+article,ART0417,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0419,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0422,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0423,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0425,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0426,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0427,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2020-08-02",02/08/2020
+article,ART0429,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2021-11-09",09/11/2021
+article,ART0434,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0436,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0438,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0440,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0444,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0447,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0448,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0449,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0450,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0451,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0454,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0455,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0459,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2022-02-07",02-07-2022
+article,ART0462,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0462,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2020-03-05",03-05-2020
+article,ART0463,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2022-02-06",06/02/2022
+article,ART0465,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0467,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0469,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0474,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0478,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0479,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-02-04",02-04-2023
+article,ART0483,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2022-05-08",05-08-2022
+article,ART0484,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0486,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0489,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0490,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2021-06-04",06-04-2021
+article,ART0492,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2020-11-08",08/11/2020
+article,ART0494,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0496,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2021-08-01",01/08/2021
+article,ART0499,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0502,company_unmatched,warning,company not in metadata; enrichment fields are null,Mistral AI
+article,ART0503,company_alias,info,company name variant resolved to amazon-web-services,AWS
+article,ART0503,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-06-09",06-09-2024
+article,ART0505,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-03-04",04/03/2024
+article,ART0507,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0509,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0510,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-12-10",12-10-2023
+article,ART0513,company_normalized,info,company name variant resolved to amazon-web-services,Amazon Web Services (AWS)
+article,ART0513,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-03-04",03-04-2024
+article,ART0517,company_unmatched,warning,company not in metadata; enrichment fields are null,Perplexity AI
+article,ART0517,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-09-10",09-10-2024
+article,ART0518,company_unmatched,warning,company not in metadata; enrichment fields are null,Cohere
+article,ART0519,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-04-05",05/04/2024
+article,ART0521,company_alias,info,company name variant resolved to microsoft,Microsoft Azure
+article,ART0522,company_alias,info,company name variant resolved to microsoft,Azure
+article,ART0523,company_alias,info,company name variant resolved to google-deepmind,DeepMind
+article,ART0526,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-04-12",12/04/2023
+article,ART0527,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0527,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-06-11",06-11-2024
+article,ART0529,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0533,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-07-09",09/07/2024
+article,ART0535,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0536,company_unmatched,warning,company not in metadata; enrichment fields are null,Cohere
+article,ART0538,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0538,company_normalized,info,company name variant resolved to google-deepmind,Google Deepmind
+article,ART0538,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-04-01",04-01-2024
+article,ART0540,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-02-12",12/02/2024
+article,ART0541,company_alias,info,company name variant resolved to meta-ai,Meta AI Research
+article,ART0541,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-03-07",03-07-2024
+article,ART0543,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0543,company_alias,info,company name variant resolved to meta-ai,Facebook AI Research
+article,ART0544,company_unmatched,warning,company not in metadata; enrichment fields are null,Perplexity AI
+article,ART0545,company_unmatched,warning,company not in metadata; enrichment fields are null,xAI
+article,ART0546,company_normalized,info,company name variant resolved to nvidia,Nvidia
+article,ART0548,company_normalized,info,company name variant resolved to nvidia,NVIDIA Corporation
+article,ART0549,company_normalized,info,company name variant resolved to openai,Open AI
+article,ART0552,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-08-06",08-06-2024
+article,ART0557,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0557,company_normalized,info,company name variant resolved to openai,OpenAI Inc.
+article,ART0559,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-12-08",12-08-2024
+article,ART0561,company_normalized,info,company name variant resolved to databricks,Databricks Inc.
+article,ART0561,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-11-12",12/11/2024
+article,ART0562,company_normalized,info,company name variant resolved to snowflake,Snowflake Inc.
+article,ART0563,company_normalized,info,company name variant resolved to cloudflare,CloudFlare
+article,ART0566,company_normalized,info,company name variant resolved to datarobot,Data Robot
+article,ART0566,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-03-09",03-09-2023
+article,ART0567,company_normalized,info,company name variant resolved to mongodb,Mongo DB
+article,ART0569,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-05-09",05-09-2024
+article,ART0575,company_normalized,info,company name variant resolved to palantir,Palantir Technologies
+article,ART0579,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0579,company_unmatched,warning,company not in metadata; enrichment fields are null,Cohere
+article,ART0582,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-12-03",03/12/2024
+article,ART0583,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0589,company_alias,info,company name variant resolved to spacex,The Boring Company / SpaceX
+article,ART0592,company_normalized,info,company name variant resolved to stripe,Stripe Inc.
+article,ART0594,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-10-09",10-09-2024
+article,ART0595,company_unmatched,warning,company not in metadata; enrichment fields are null,Cohere
+article,ART0596,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0596,company_alias,info,company name variant resolved to amazon-web-services,AWS
+article,ART0601,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0601,company_normalized,info,company name variant resolved to amazon-web-services,Amazon Web Services (AWS)
+article,ART0601,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-07-08",07-08-2024
+article,ART0604,company_unmatched,warning,company not in metadata; enrichment fields are null,Cohere
+article,ART0604,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-06-09",06-09-2024
+article,ART0605,company_alias,info,company name variant resolved to microsoft,Microsoft Azure
+article,ART0606,company_alias,info,company name variant resolved to microsoft,Azure
+article,ART0609,company_alias,info,company name variant resolved to google-deepmind,DeepMind
+article,ART0610,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-08-04",04/08/2024
+article,ART0611,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-01-09",01-09-2024
+article,ART0613,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0614,company_normalized,info,company name variant resolved to google-deepmind,Google Deepmind
+article,ART0615,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-02-04",02-04-2023
+article,ART0617,company_alias,info,company name variant resolved to meta-ai,Meta AI Research
+article,ART0617,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-11-05",05/11/2024
+article,ART0618,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-05-09",05-09-2024
+article,ART0619,company_alias,info,company name variant resolved to meta-ai,Facebook AI Research
+article,ART0621,company_normalized,info,company name variant resolved to nvidia,Nvidia
+article,ART0624,company_unmatched,warning,company not in metadata; enrichment fields are null,Hugging Face
+article,ART0626,company_normalized,info,company name variant resolved to nvidia,NVIDIA Corporation
+article,ART0627,company_unmatched,warning,company not in metadata; enrichment fields are null,xAI
+article,ART0630,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0630,company_unmatched,warning,company not in metadata; enrichment fields are null,xAI
+article,ART0631,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-09-01",01/09/2024
+article,ART0632,company_unmatched,warning,company not in metadata; enrichment fields are null,Mistral AI
+article,ART0632,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-12-11",12-11-2024
+article,ART0634,company_normalized,info,company name variant resolved to openai,Open AI
+article,ART0639,company_normalized,info,company name variant resolved to openai,OpenAI Inc.
+article,ART0639,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2023-07-02",07-02-2023
+article,ART0640,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0641,company_unmatched,warning,company not in metadata; enrichment fields are null,Perplexity AI
+article,ART0643,company_normalized,info,company name variant resolved to databricks,Databricks Inc.
+article,ART0643,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2022-09-05",09-05-2022
+article,ART0646,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0646,company_unmatched,warning,company not in metadata; enrichment fields are null,Hugging Face
+article,ART0646,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-06-04",06-04-2024
+article,ART0648,company_unmatched,warning,company not in metadata; enrichment fields are null,xAI
+article,ART0650,company_normalized,info,company name variant resolved to snowflake,Snowflake Inc.
+article,ART0650,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-08-05",08-05-2024
+article,ART0652,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-05-12",12/05/2023
+article,ART0653,company_normalized,info,company name variant resolved to cloudflare,CloudFlare
+article,ART0655,company_normalized,info,company name variant resolved to datarobot,Data Robot
+article,ART0658,company_normalized,info,company name variant resolved to mongodb,Mongo DB
+article,ART0659,company_normalized,info,company name variant resolved to palantir,Palantir Technologies
+article,ART0662,company_unmatched,warning,company not in metadata; enrichment fields are null,Hugging Face
+article,ART0663,company_alias,info,company name variant resolved to spacex,The Boring Company / SpaceX
+article,ART0665,company_normalized,info,company name variant resolved to stripe,Stripe Inc.
+article,ART0666,company_alias,info,company name variant resolved to amazon-web-services,AWS
+article,ART0667,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-08-04",08-04-2024
+article,ART0670,company_normalized,info,company name variant resolved to amazon-web-services,Amazon Web Services (AWS)
+article,ART0671,company_alias,info,company name variant resolved to microsoft,Microsoft Azure
+article,ART0673,company_alias,info,company name variant resolved to microsoft,Azure
+article,ART0681,company_alias,info,company name variant resolved to google-deepmind,DeepMind
+article,ART0681,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-05-06",05-06-2024
+article,ART0682,company_normalized,info,company name variant resolved to google-deepmind,Google Deepmind
+article,ART0685,company_unmatched,warning,company not in metadata; enrichment fields are null,Mistral AI
+article,ART0685,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-03-09",03-09-2024
+article,ART0687,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0687,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-10-02",02/10/2023
+article,ART0688,company_unmatched,warning,company not in metadata; enrichment fields are null,Mistral AI
+article,ART0689,company_alias,info,company name variant resolved to meta-ai,Meta AI Research
+article,ART0691,company_unmatched,warning,company not in metadata; enrichment fields are null,Mistral AI
+article,ART0692,company_unmatched,warning,company not in metadata; enrichment fields are null,Cohere
+article,ART0692,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-06-10",06-10-2024
+article,ART0694,company_alias,info,company name variant resolved to meta-ai,Facebook AI Research
+article,ART0694,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-11-08",08/11/2024
+article,ART0699,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0699,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-05-03",05-03-2024
+article,ART0700,company_normalized,info,company name variant resolved to nvidia,Nvidia
+article,ART0706,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0706,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-02-01",02-01-2024
+article,ART0708,company_normalized,info,company name variant resolved to nvidia,NVIDIA Corporation
+article,ART0708,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-05-08",08/05/2023
+article,ART0710,company_normalized,info,company name variant resolved to openai,Open AI
+article,ART0711,company_normalized,info,company name variant resolved to openai,OpenAI Inc.
+article,ART0715,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0715,company_unmatched,warning,company not in metadata; enrichment fields are null,Cohere
+article,ART0716,company_normalized,info,company name variant resolved to databricks,Databricks Inc.
+article,ART0721,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0722,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2024-12-03",03/12/2024
+article,ART0723,arr_not_available,info,no ARR value reported; excluded from fct_arr_observation,N/A
+article,ART0723,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-06-08",06-08-2024
+article,ART0724,company_normalized,info,company name variant resolved to snowflake,Snowflake Inc.
+article,ART0725,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0726,company_normalized,info,company name variant resolved to cloudflare,CloudFlare
+article,ART0729,date_ambiguous,warning,"day/month order ambiguous; read as MM/DD/YYYY, alternative 2023-11-08",08/11/2023
+article,ART0730,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-07-08",07-08-2024
+article,ART0731,company_normalized,info,company name variant resolved to datarobot,Data Robot
+article,ART0732,company_normalized,info,company name variant resolved to mongodb,Mongo DB
+article,ART0733,company_normalized,info,company name variant resolved to palantir,Palantir Technologies
+article,ART0734,company_alias,info,company name variant resolved to spacex,The Boring Company / SpaceX
+article,ART0739,arr_missing,info,no ARR value reported; excluded from fct_arr_observation,
+article,ART0739,company_unmatched,warning,company not in metadata; enrichment fields are null,xAI
+article,ART0741,date_ambiguous,warning,"day/month order ambiguous; read as DD-MM-YYYY, alternative 2024-01-05",01-05-2024
+article,ART0742,arr_not_disclosed,info,no ARR value reported; excluded from fct_arr_observation,Not disclosed
+article,ART0746,company_normalized,info,company name variant resolved to stripe,Stripe Inc.
+article,ART0749,company_unmatched,warning,company not in metadata; enrichment fields are null,xAI
+article,ART0750,company_unmatched,warning,company not in metadata; enrichment fields are null,Cohere
+company,cloudflare,ticker_on_private_company,warning,inconsistent company metadata (is_public vs stock_ticker),CLOU
+company,datarobot,public_company_without_ticker,warning,inconsistent company metadata (is_public vs stock_ticker),
+company,meta-ai,public_company_without_ticker,warning,inconsistent company metadata (is_public vs stock_ticker),
+company,mongodb,ticker_on_private_company,warning,inconsistent company metadata (is_public vs stock_ticker),MONG
+company,openai,ticker_on_private_company,warning,inconsistent company metadata (is_public vs stock_ticker),OPEN
+company,palantir,public_company_without_ticker,warning,inconsistent company metadata (is_public vs stock_ticker),
+company,snowflake,public_company_without_ticker,warning,inconsistent company metadata (is_public vs stock_ticker),
+company,tesla,public_company_without_ticker,warning,inconsistent company metadata (is_public vs stock_ticker),
+company,uber,ticker_on_private_company,warning,inconsistent company metadata (is_public vs stock_ticker),UBER
+observation,ARR-ART0033,arr_multiple_same_day,info,2 observations for this company on 2022-02-15,$5.000 billion
+observation,ARR-ART0116,arr_multiple_same_day,info,2 observations for this company on 2020-10-10,$24700.0M - $27300.0M
+observation,ARR-ART0168,arr_multiple_same_day,info,2 observations for this company on 2022-02-15,$5.000B
+observation,ARR-ART0219,arr_multiple_same_day,info,2 observations for this company on 2023-12-12,$722.0M - $798.0M
+observation,ARR-ART0406,arr_multiple_same_day,info,2 observations for this company on 2020-10-10,26000.0M USD
+observation,ARR-ART0487,arr_multiple_same_day,info,2 observations for this company on 2023-12-12,$0.760 billion
+observation,ARR-ART0562,arr_multiple_same_day,info,2 observations for this company on 2024-11-16,"$3,612,000,000"
+observation,ARR-ART0621,arr_multiple_same_day,info,2 observations for this company on 2024-08-13,$58500.0M
+observation,ARR-ART0633,arr_multiple_same_day,info,2 observations for this company on 2024-11-16,$3.612 billion
+observation,ARR-ART0667,arr_multiple_same_day,info,2 observations for this company on 2024-04-08,"¥58,200,000,000"
+observation,ARR-ART0717,arr_multiple_same_day,info,2 observations for this company on 2024-08-13,"¥8,775,000,000,000"
+observation,ARR-ART0728,arr_multiple_same_day,info,2 observations for this company on 2024-04-08,$368.6M - $407.4M

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arr-pipeline"
+version = "1.0.0"
+description = "Tech-news ARR observation pipeline with DuckDB warehouse and semantic search"
+requires-python = ">=3.10"
+
+[project.scripts]
+arr-pipeline = "arr_pipeline.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+markers = ["slow: requires downloading the sentence-transformers model"]
+addopts = "-m 'not slow'"

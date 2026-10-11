@@ -1,0 +1,3 @@
+batch_id,batch_seq,source_type,source_file,file_sha256,row_count,new_record_versions,ingested_at
+company_metadata-826788ca33a4,1,company_metadata,company_metadata.json,826788ca33a46cbe0d8219ab12583daff89e8786c1fdd839e6b0fec6cf3279ff,21,21,2026-10-11 18:51:26.507132
+tech_news-e3a42734ef79,2,articles,tech_news.csv,e3a42734ef79f169de3cc6c89e5dffadc8a931cd5659b7a0cd5412294b6f5cde,750,750,2026-10-11 18:51:26.554721

@@ -1,0 +1,47 @@
+company_name_raw,company_id,canonical_name,match_method,match_score,in_metadata,relationship,match_note,article_count
+AWS,amazon-web-services,Amazon Web Services,alias,1.0,true,self,,3
+Airbnb,airbnb,Airbnb,exact,1.0,true,self,,25
+Amazon Web Services,amazon-web-services,Amazon Web Services,exact,1.0,true,self,,30
+Amazon Web Services (AWS),amazon-web-services,Amazon Web Services,normalized,1.0,true,self,,3
+Anthropic,anthropic,Anthropic,exact,1.0,true,self,,39
+Azure,microsoft,Microsoft,alias,1.0,true,self,,3
+CloudFlare,cloudflare,Cloudflare,normalized,1.0,true,self,,3
+Cloudflare,cloudflare,Cloudflare,exact,1.0,true,self,,38
+Cohere,cohere,Cohere,unmatched,0.0,false,self,not present in company metadata,8
+Confluent,confluent,Confluent,exact,1.0,true,self,,37
+Data Robot,datarobot,DataRobot,normalized,1.0,true,self,,3
+DataRobot,datarobot,DataRobot,exact,1.0,true,self,,31
+Databricks,databricks,Databricks,exact,1.0,true,self,,27
+Databricks Inc.,databricks,Databricks,normalized,1.0,true,self,,3
+DeepMind,google-deepmind,Google DeepMind,alias,1.0,true,self,,3
+Elastic,elastic,Elastic,exact,1.0,true,self,,33
+Facebook AI Research,meta-ai,Meta AI,alias,1.0,true,self,,3
+Google DeepMind,google-deepmind,Google DeepMind,exact,1.0,true,self,,28
+Google Deepmind,google-deepmind,Google DeepMind,normalized,1.0,true,self,,3
+Hugging Face,hugging-face,Hugging Face,unmatched,0.0,false,self,not present in company metadata,3
+Meta AI,meta-ai,Meta AI,exact,1.0,true,self,,30
+Meta AI Research,meta-ai,Meta AI,alias,1.0,true,self,,3
+Microsoft,microsoft,Microsoft,exact,1.0,true,self,,35
+Microsoft Azure,microsoft,Microsoft,alias,1.0,true,self,,3
+Mistral AI,mistral-ai,Mistral AI,unmatched,0.0,false,self,not present in company metadata,5
+Mongo DB,mongodb,MongoDB,normalized,1.0,true,self,,3
+MongoDB,mongodb,MongoDB,exact,1.0,true,self,,34
+NVIDIA,nvidia,NVIDIA,exact,1.0,true,self,,28
+NVIDIA Corporation,nvidia,NVIDIA,normalized,1.0,true,self,,3
+Nvidia,nvidia,NVIDIA,normalized,1.0,true,self,,3
+Open AI,openai,OpenAI,normalized,1.0,true,self,,3
+OpenAI,openai,OpenAI,exact,1.0,true,self,,22
+OpenAI Inc.,openai,OpenAI,normalized,1.0,true,self,,3
+Palantir,palantir,Palantir,exact,1.0,true,self,,33
+Palantir Technologies,palantir,Palantir,normalized,1.0,true,self,,3
+Perplexity AI,perplexity-ai,Perplexity AI,unmatched,0.0,false,self,not present in company metadata,3
+Scale AI,scale-ai,Scale AI,exact,1.0,true,self,,41
+Snowflake,snowflake,Snowflake,exact,1.0,true,self,,33
+Snowflake Inc.,snowflake,Snowflake,normalized,1.0,true,self,,3
+SpaceX,spacex,SpaceX,exact,1.0,true,self,,29
+Stripe,stripe,Stripe,exact,1.0,true,self,,33
+Stripe Inc.,stripe,Stripe,normalized,1.0,true,self,,3
+Tesla,tesla,Tesla,exact,1.0,true,self,,33
+The Boring Company / SpaceX,spacex,SpaceX,alias,1.0,true,self,,3
+Uber,uber,Uber,exact,1.0,true,self,,26
+xAI,xai,xAI,unmatched,0.0,false,self,not present in company metadata,6
